@@ -1,0 +1,1 @@
+Este projeto tem como objetivo a implementação e configuração de uma esteira de CI/CD, incorporando práticas e princípios de DevOps para automatizar e otimizar os processos de desenvolvimento, integração, testes e entrega de software.
